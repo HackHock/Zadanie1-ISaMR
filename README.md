@@ -1,2 +1,5 @@
-# Zadanie1-ISaMR
-Inteligenté systémy a mobilná robotika
+Matej Labaj + Filip Pajkoš
+Inteligentné systémy a mobilná robotika
+2021/2022
+Letný semester
+Meteorologická stanica a solarny panel
